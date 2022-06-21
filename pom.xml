@@ -47,7 +47,7 @@
 			<artifactId>mysql-connector-java</artifactId>
 			<scope>runtime</scope>
 			<!--Minha versão do MySql, altere conforme a sua-->
-			<version>8.0.17</version>
+			<version>8.0.28</version>
 		</dependency>		
 	</dependencies>
 
